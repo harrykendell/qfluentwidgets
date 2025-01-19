@@ -5,7 +5,7 @@ with open('README.md', encoding='utf-8') as f:
     long_description = f.read()
 
 setuptools.setup(
-    name="PyQt-Fluent-Widgets",
+    name="qfluentwidgets",
     version="1.7.4",
     keywords="pyqt fluent widgets",
     author="zhiyiYo",
